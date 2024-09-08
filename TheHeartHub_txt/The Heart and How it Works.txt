@@ -1,0 +1,41 @@
+The Heart and How it Works
+ 
+
+ 
+ 
+View the ‘How the Heart Works’ interactive module to learn about the various parts of your heart and how the heart contracts and pumps blood to your body.
+
+How the Heart Works 
+
+The Heart and Blood Flow
+
+
+
+The heart circulates blood throughout the body. 
+It is divided into the right side and left side and composed of four chambers: two right and left top chambers (atria) and two right and left bottom chambers (ventricles). Valves separate the atria, ventricles, and arteries. 
+Atria and Ventricles
+The atria are responsible for collecting blood, while the ventricles are responsible for pumping the blood to the lungs or the body. 
+Deoxygenated blood returned to the heart from the body is collected in the right atrium. It then empties into the right ventricle, which pumps the blood to the lungs, where it receives oxygen.
+The oxygenated blood is then returned to the left atrium and emptied into the left ventricle, which pumps the oxygenated blood to the body. 
+While all the chambers in the heart are important, the main pumping chamber to circulate the blood to the body is the left ventricle.
+Valves
+There are four valves in the heart whose function is to ensure one-way blood flow.
+On the right side, the tricuspid valve separates the right atrium from the right ventricle. The pulmonary valve separates the right ventricle from the pulmonary arteries, which carry blood to the lungs.
+On the left side, the mitral valve separates the left atrium from the left ventricle. The aortic valve separates the left ventricle from the aorta, which moves oxygenated blood to the body.
+Regurgitation
+Valves may become leaky (called regurgitation), meaning they don’t close properly and allow blood to flow, or leak, backwards. 
+Stenosis
+Valves may also become narrowed (called stenosis). This means they do not open fully, restricting or blocking blood flow.
+Problems with the valves may be congenital (a problem you were born with) or an acquired condition.
+
+The Electrical System of the Heart
+
+
+
+The signal for the heart to beat is based on electrical activity. This electrical activity usually starts in the upper chambers of the heart (the atria) and is communicated to the bottom chambers (the ventricles), telling them to contract. In normal situations, the atria and ventricles work together. The atria contract and send blood to the ventricles, which in turn contract and send blood to the lungs and the body.
+A complex and connected web of specialized cells normally work together to pump your heart. 
+The sinoatrial (SA) node, a group of specialized cells in the right atrium normally acts as the body’s natural pacemaker. It sets your heart rate. When you exercise or are excited, it fires faster, causing a faster heart rate. When you are relaxed or are sleeping, it fires more slowly, resulting in a slower heart rate.
+The electrical signal passes through the atria (causing them to contract) to the atrioventricular (AV) node, another specialized group of cells in the middle of the heart between the atria and the ventricles. Once the electrical signal passes through the AV node, it travels through more specialized tissue (called the His-Purkinje system) and then divides into the “bundle branches,” which transmit the electrical signal to the ventricles, causing them to contract.
+When the sinus node is regulating the heart’s contraction, this is called sinus rhythm.
+
+Go To What is Heart Failure?

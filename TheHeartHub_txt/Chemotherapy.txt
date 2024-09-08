@@ -1,0 +1,40 @@
+Chemotherapy
+Chemotherapy drugs can have an impact on your heart. Anthracyclines are one class of chemotherapy medications that can damage the cell structures and DNA inside the heart muscle, leading to decreased heart function.
+Anthracyclines include doxorubicin, daunorubicin, epirubicin, and idarubicin. They are used to treat:
+
+Carcinoma: breast, liver, thyroid, small cell lung, bladder, esophagus, and stomach
+Leukemias: acute lymphoblastic, acute myeloblastic
+Lymphomas: Hodgkin’s lymphoma, non-Hodgkin’s lymphoma (NHL), cutaneous T-cell lymphoma
+Sarcoma: Soft tissue tumors, Ewing’s Osteogenic bone
+
+Sarcoma: Soft tissue tumors, Ewing’s Osteogenic bone.
+Risk Factors
+People at higher risk of impacted heart function as a result of anthracyclines include: 
+
+Women 
+BIPOC
+Those over 65 or under 18 years of age
+Those with health conditions such as kidney disease, diabetes, obesity, high blood pressure, or high cholesterol
+Those who have previously had radiation therapy or chemotherapy
+Those who smoke, have a high alcohol intake, and/or maintain a sedentary lifestyle
+Those who have a family history of heart disease before age 50
+Patients receiving more than 250 mg/m2 of doxorubicin during their treatment
+Patients with a high doses of doxorubicin
+
+Those diagnosed with heart dysfunction years after treatment with anthracyclines.
+
+The most common type of heart dysfunction after chemotherapy is called dilated cardiomyopathy. It occurs when the bottom chambers of the heart (ventricles) become enlarged and are unable to pump blood to the body. Over time, this can cause the heart to become weakened and stressed, leading to heart failure or arrhythmias.
+HER2-targeted therapies (Trastuzumab and Pertuzumab)
+The growth and function of breast cancer cells are controlled by receptors activated by estrogen (ER), progesterone (PR), or human epidermal growth factor (HER2). If any of these three elements are produced by the body in abnormally high levels, it can cause breast cancer cells to divide and grow. 
+There are three common types of breast cancer: 
+
+ER or PR positive (+) 
+HER2 positive (+) 
+Triple negative (ER-/PR-/HER2-)
+
+Trastuzumab is a monoclonal antibody that targets the HER2-receptor. Approximately 15-20% of patients with breast cancer whose tumors overexpress HER2-receptors require trastuzumab in the treatment of both early and advanced disease stages. There are other cancers that are HER2-positive where patients are treated with trastuzumab, such as gastrointestinal cancers. 
+It is estimated that people treated with anthracyclines and HER2-targeted therapies have a 3-5% risk of developing cardiotoxicity. Monitoring for cardiotoxicity while patients are receiving HER-2 targeted therapy is key, as trastuzumab-related cardiotoxicity is a relatively common cause of interruption of cancer treatment.
+Statins
+Statins have been shown to stabilize heart function and prevent hospitalizations from heart failure. Patients with cardiotoxicity may be prescribed statins during their cancer treatment and beyond.
+
+Learn more about Statins

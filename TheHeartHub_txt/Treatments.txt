@@ -1,0 +1,189 @@
+Device Therapies
+Device Therapies are specialized pacemakers that either make your heart pump more efficiently or protect you from life threatening arrhythmias (abnormal heart rhythms). Deciding on whether a device is right for you – and selecting a device – depends on several factors, such as severity of your symptoms and heart function (as measured by the ejection fraction). 
+Three common devices for people with heart failure are:
+
+Implantable Cardioverter-Defibrillator (ICD) 
+Cardiac Resynchronization Therapy (CRT) 
+Left Ventricular Assist Devices (LVAD)
+
+
+
+Implantable Cardioverter-Defibrillator (ICD)
+
+ 
+Patients with heart failure are at risk of arrhythmias, causing the heart to beat too quickly (tachycardia), too slowly (bradycardia), or with an irregular pattern. 
+When too fast rhythms originate from the bottom heart chambers (the ventricles), they may cause a patient to feel unwell, pass out, or even die suddenly. These abnormal ventricular arrhythmias are called Ventricular Tachycardia (VT) or Ventricular Fibrillation (VF).
+What Is An ICD?
+
+Implantable Cardioverter-Defibrillators (ICDs) are specialized pacemakers. They are composed of a thin metal box that contains a battery, electric circuitry, and a wire that is implanted through a vein and sits in the right ventricle. The wire that sits in the right ventricle continuously monitors the heart rate. If the heart rate drops too low, it will pace the heart. If it detects an abnormally fast heart rate, it will either try to pace the heart back into a normal rhythm or deliver a shock to reset the heart to a normal rhythm.
+While ICDs may prevent you from passing out or dying suddenly from ventricular arrhythmia, they do not affect your heart failure symptoms and will not necessarily make you feel better on a day-to-day basis.
+When are ICDs required?
+If you have had a ventricular arrhythmia that made you feel unwell or pass out, you may be a candidate for an ICD. Sometimes ICDs are implanted before a patient develops symptoms related to ventricular arrhythmia. These are called primary prophylactic ICDs. 
+The decision to implant an ICD depends on how impaired your heart function is (measured by your ejection fraction) as well as how symptomatic you are. Your health care provider will discuss whether an ICD is a good option with you.
+ICDs may also be used for people with genetic cardiomyopathies who may be at higher risk of developing life-threatening arrhythmias (e.g., Hypertrophic Cardiomyopathy (HCM), Arrhythmogenic Right Ventricular Cardiomyopathy (ARVC). 
+What are the different types of ICDs?
+
+
+ICDs vary depending on the number of leads (wires) implanted in the heart. The simplest is a single chamber ICD, with just one wire sitting in the right ventricle.
+Dual chamber ICDs have a second lead implanted in the right atrium. 
+How big is an ICD?
+Current ICDs are about 2 inches by 2 inches (5cm by 5cm) and about half an inch (11mm) thick. They weigh about 1-3 ounces (28-85 grams). 
+As technology continues to improve, devices continue to get smaller.
+How are ICDs implanted?
+ICD implantation is usually day-surgery, typically implanted in the Electrophysiology Laboratory. Patients are usually awake during the procedure, and intravenous medication is given to help you relax. With this medication, you will feel drowsy, but will be awake and able to answer questions.
+Most ICDs are implanted using the transvenous (through the vein) approach. A freezing solution is injected under the collarbone, and a small incision is made. The wire (or wires) is then inserted through the incision into a vein and directed to the heart using X-ray guidance. The tip of the wire is attached to the heart muscle, and the other end is hooked up to the pulse generator. The generator is then implanted under the skin just under the collarbone. The procedure usually takes between two and four hours.
+After your ICD implantation, you will be given information about your specific device. You will also receive an appointment in the Pacemaker/Defibrillator Follow-up Clinic for ongoing monitoring.
+What are the risks of an ICD?
+In general, ICD implantation is safe. However, as with any invasive procedure, there are risks. The doctor who is performing the procedure will talk to you more about the risks and ask you to sign a consent form to go ahead with the procedure.
+The risks of ICD implantation include bleeding, infection, puncture of the lung requiring a chest tube, and damage to the heart or to a blood vessel. Overall, the risk of having any of these complications is about 2-3%. The risk of dying from an ICD implantation procedure is very low (well under 1%).
+In the long-term, there is also a risk of having an inappropriate shock, when the ICD delivers a shock not in response to a life-threatening arrhythmia. Receiving a shock from an ICD can be painful and unpleasant, especially if the shock was for the wrong reason. The technology is continuously improving and the risk of receiving an inappropriate shock is decreasing, but it is still an issue to consider with your care team.
+What to do if you get a shock?
+Receiving a shock from your ICD can be painful and upsetting. If you experience a shock, for your safety and for the safety of others, do not drive. If you are standing, move to a seated position. 
+If you experience just one shock, do not pass out, and otherwise feel well, you do not need to call 911 or go to the Emergency Department. Call the Device Clinic the same day (or the next business day) to report that you have received a shock. They will likely make an appointment for you to come in to have your ICD interrogated.
+You should go to the Emergency Department if:
+
+You lose consciousness
+Experience more than one shock in one day, or more than one shock in one minute
+Experience chest pain, shortness of breath, or lightheadedness.
+
+More information and video on ICDs,
+
+Cardiac Resynchronization Therapy (CRT)
+Cardiac Resynchronization Therapy (CRT), also called a Biventricular Pacemaker, is a specialized pacemaker that works by making the two pumping chambers of the heart (the right and the left ventricle) pump at the same time. The goal of this specialized pacemaker is to make the pumping function of your left ventricle more effective, to improve your symptoms, and make you live longer.
+
+The main pumping chamber of the heart is the left ventricle, which pumps blood to the body. The other pumping chamber is the right ventricle, which pumps blood to the lungs. In the normal heart, these two chambers pump at the same time.
+In some patients with heart failure, the left ventricle does not pump at the same time as the right ventricle. The muscle walls of the left ventricle can also squeeze in an uncoordinated or ‘dyssynchronous’ fashion. There may be clues on your EKG or ECHO that your ventricles are not coordinated. A CRT device may be recommended to “resynchronize” the ventricles. 
+All CRT devices are pacemakers. If you are also a candidate for an ICD, your health care provider may recommend that you receive a combination CRT and ICD device, called a CRT-D device.
+What to expect from a CRT?
+Most patients who have a CRT implanted will experience an improvement in their symptoms, including improved quality of life and exercise tolerance. Improvements are noted immediately after CRT implantation but can sometimes take weeks to months to be experienced. 
+Some patients who have CRT implanted do not benefit from improved symptoms and quality of life. This subset of patients is called CRT Non-Responders. There is ongoing research to understand which patients are most likely to benefit from CRT.
+How are CRTs implanted?
+CRT implantation is usually day-surgery, typically implanted in the Electrophysiology Laboratory. Patients are usually awake during the procedure, and intravenous medication is given to help you relax. With this medication, you will feel drowsy, but will be awake and able to answer questions.
+Most CRTs are implanted using the transvenous (through the vein) approach. Freezing solution is injected under the collarbone, and a small incision is made. The wires are then inserted through the incision into a vein and directed to the heart using X-ray guidance. The tip of the wire is attached to the heart muscle, and the other end is hooked up to the pulse generator. The generator is then implanted under the skin just under the collarbone.
+The procedure usually takes between two and four hours.
+After CRT implantation, you will be given information about your specific device. You will also receive an appointment in the Pacemaker/Defibrillator Follow-up Clinic for ongoing monitoring.
+What are the risks of CRT?
+In general, CRT implantation is safe. However, as with any invasive procedure, there are risks. The doctor who is performing the procedure will talk to you more about the risks and ask you to sign a consent form to go ahead with the procedure.
+The risks of CRT implantation are similar to those associated with any other type of pacemaker implant. These include bleeding, infection, puncture of the lung requiring a chest tube, and damage to the heart or to a blood vessel. Overall, the risk of having any of these complications is about 2-3%. The risk of dying from a CRT implantation procedure is very low (less than 1%).
+
+Left Ventricular Assist Devices (LVADs)
+
+Left Ventricular Assist Devices (LVADs) are mechanical pumps that support the main pumping chamber of the heart, the left ventricle. They are implanted in patients with advanced heart failure who are still very symptomatic despite medications and specialized pacemakers.
+Unlike implantation of an ICD or CRT (which are less invasive procedures), implanting an LVAD is a major, open-heart surgery. The risks of surgery depend mainly on how sick a patient is before the operation.
+Reasons For LVAD Implantation:
+
+Most LVADs are implanted while patients await a heart transplant. Because the wait time for a transplant can be long, the support of an LVAD may be required by a patient’s weak heart until a donor heart becomes available.
+Some patients with advanced heart failure may not be candidates for a heart transplant because of poor kidney function or high pressures in the lungs (pulmonary hypertension). When normal circulation is returned with an LVAD, the impaired kidney function and pulmonary hypertension may improve to a point where a patient is eligible for transplantation. Patients usually have their LVADs implanted and recover for several months to recover before they are reassessed for transplant candidacy.
+Some patients are not and will most likely never be suitable candidates for heart transplantation because of advanced age or other major medical conditions (e.g., cancer, kidney failure, advanced diabetes). An LVAD may be implanted to manage their severe heart failure symptoms as a permanent solution.
+In very rare cases, the cause of a person’s heart failure may be reversible and LVADs may be implanted to allow the heart to rest and recover. Once the heart has recovered, the LVAD is then taken out.
+
+How does a LVAD work?
+LVADs do not replace a patient’s heart. Rather, the LVAD is attached to the patient’s heart, and it takes over the pumping function of the left ventricle. 
+It takes a lot of energy to drive the pump. Although the pump itself is completely internal, a cable passes out through the abdominal wall and connects to batteries that power the pump. These batteries must be worn at all times and require frequent recharging. Although this sounds complicated, many patients are able to adapt and return to an active lifestyle.
+Before the decision to implant an LVAD, patients undergo an extensive evaluation to make sure it is appropriate for them. This evaluation is meant to identify patients who are sick enough to need an LVAD (and justify the risk of the surgery), but not too sick to make the operation too high risk.
+Currently, there is one type of LVAD being implanted in Canada: HeartMate III®. 
+Components of an LVAD
+
+LVAD design depends on the manufacturer, but they all have the following components:
+
+Pump: The pump attaches to the left ventricle of your heart and pumps the blood to your body. A cannula empties the blood from the left ventricle and pumps it through another cannula that is implanted in the aorta. Newer generation devices do not provide a continuous pumping action, so you may not be able to feel a pulse.
+Driveline: The LVAD’s pump requires electrical energy to run. The driveline connects the pump to the controller and batteries on the outside of your body. The driveline exits your body through the skin of your abdomen.
+Controller: The controller records all the settings of the LVAD, tells you when the batteries need to be changed, and sounds an alarm if there is a problem with the LVAD. The controller is worn on the outside of the body in a bag, or on your belt.
+Batteries: When people are active, batteries are the main way that an LVAD is powered. The batteries must be charged in between uses – it usually takes about six hours to fully charge the batteries. The controller has a display which shows how much battery life remains.
+AC (Electrical) Power Sources: While you are at home, either sleeping or resting, you can connect your LVAD to an electrical power source. This is to prevent loss of battery power while you are asleep.
+
+Living with your LVAD
+After the LVAD implantation surgery is done, you will be in hospital for several days and the LVAD team (cardiac surgeons, cardiologists, and nurse practitioners) will follow you closely to monitor your progress. You and your caregiver or family will be taught how to operate your LVAD. You will learn that your LVAD is easy to operate and very reliable.
+After you go home, the LVAD team will provide you with all the equipment you need to care for your device. The LVAD will provide you with better circulation, better organ function, and will hopefully make you feel stronger.
+Commonly Asked Questions
+Will I be taking new medications after getting the LVAD?
+You will have different medication needs after LVAD implantation. Patients often require less medication than before surgery. 
+Most patients will need to take blood thinners while their LVAD is implanted. The nurses, nurse practitioner, and pharmacist involved in your care will make sure you know each of your pills and what they do.
+Will I be able to shower with the LVAD?
+Once your incision is healed, you will be able to shower. The nurse practitioner will show you how to cover and protect the electrical connections of your device so that you can safely take a shower. You will not be able to swim or be submerged underwater.
+How long can I expect to be in hospital after the LVAD is in place?
+You and the LVAD team will decide when you are ready for discharge. Most patients are ready for discharge within two weeks to one month after surgery. It is important that you are very comfortable with the care of the LVAD before you leave the hospital.
+Can I have sex?
+Many patients are able to resume sexual activity once the surgical wound has healed.
+Are there restrictions on my activities?
+Like any major open-heart surgery, there is a recovery period after surgery. Over time you will regain your strength and ideally return to an active lifestyle.
+To find out more information on LVADs.
+
+
+Heart Transplant
+
+ 
+Heart transplantation can be a lifesaving therapy. It is an option for the sickest patients who continue to have symptoms of heart failure or require admission to hospital for heart failure, despite being on the best medical therapy and having the appropriate device therapies.
+Unfortunately, a major limitation is the scarce availability of suitable donor organs. Because of the critical shortage of available organs, strict criteria must be met before a patient is considered as a potential candidate for a heart transplant. 
+It is also important to understand that, while heart transplantation is a lifesaving therapy, it is not a cure. Although the failing heart is replaced, receiving a new heart requires one to be on lifelong immunosuppression, which increases the risk of infection, diabetes, and cancer.
+
+
+Heart transplant candidacy
+If you are being considered for a transplant, your doctor will order several tests to determine whether you are a suitable candidate or not: 
+
+Bloodwork to look at: 
+
+Your kidney and liver function 
+Your immune status to Hepatitis A, B and C 
+Whether you have contracted viruses, including HIV, CMV. and EBV 
+
+
+A Cardiopulmonary Test to assess the severity of your heart failure 
+An ECHO to assess your heart function 
+A Right Heart Catheterization to measure the pressures in your heart and lungs 
+Lung function tests 
+Ultrasounds of your abdomen, neck, and legs to look for narrowing or blockages of the arteries 
+If you have diabetes, an eye examination by an ophthalmologist will be needed to ensure that the diabetes hasn’t affected the blood vessels of your eyes (called diabetic retinopathy) 
+If appropriate, screening tests for breast and cervical cancer (in women) and prostate cancer (in men). 
+
+Depending on the results of these investigations, further testing may be needed. 
+Once all the tests are complete, your case will be discussed with all the members of the Heart Transplant team (cardiologists, cardiac surgeons, anesthetists, nurse practitioners, psychiatrists, and social workers) and a decision will be made on your eligibility for a heart transplant. 
+Unfortunately, not everyone who is evaluated is a candidate for a heart transplant. 
+Someone may not be considered to be a good candidate for a number of reasons: 
+
+Advanced liver disease (cirrhosis), lung disease (like COPD), or kidney failure 
+Active cancer, or cancer within the last five years 
+High pressure in the lungs (called pulmonary hypertension) that does not reverse with medications 
+An active infection 
+Diabetes that has affected your kidneys, eyes, or nerves 
+Plaque buildup in arteries not around the heart.
+
+
+What happens after becoming a candidate?
+Once confirmed as a candidate, you will be put on the Heart Transplant List. Your rank on the list is determined by the severity of your condition and how long you have been on the list. Someone who is sick and admitted to hospital is given a higher priority than someone who is stable at home, for example. 
+Other factors that affect your wait for a transplant include your blood group, your body size, and how ‘sensitized’ you are. Sensitization refers to the number and type of antibodies that your body has produced against foreign substances. The more antibodies you have, the more difficult it is to find an organ that is a right match for you.
+Occasionally a patient is called in for transplant, but the donor organ is found to be an unsuitable match, and the transplant is canceled. 
+Other medical problems may arise while waiting for a transplant and you may be ‘put on hold’ while your doctor treats this problem. In some cases, a medical problem may arise that can make someone no longer eligible for a heart transplant.
+ 
+Learn more about preparing for heart transplant in UHN’s Heart Transplant Manual
+
+Becoming a heart transplant recipient
+Getting a heart transplant can save, lengthen, or improve the quality of life (general wellbeing) of patients with advanced heart failure.
+It’s not always easy to know when it is the ‘right time’ to think about heart transplant. You need to consider getting a heart transplant before you are too sick to handle the surgery and recovery. Your symptoms must be strong and serious enough that they cannot be managed with less intensive treatment.
+Your transplant assessment coordinator starts a complete check of your health, called a “Heart Transplant Assessment” (Step 1). Your transplant team uses the results of your heart transplant assessment to determine if a heart transplant is the right treatment for you.
+Learn more in the Heart Transplant Surgery: From Hospital Admission to Surgery.
+
+What happens after a transplant?
+After your heart transplant, you will be in the hospital for several days. Your doctors will watch you closely to make sure that your new heart is functioning properly and that other complications (like infections or kidney failure) do not occur.
+You will need to take anti-rejection or immunosuppression medications for the rest of your life. They are meant to help the body’s natural infection fighting mechanisms accept the new heart.
+Normally, our immune system prevents infections by attacking foreign objects, like bacteria or viruses. Rejection occurs when your body’s immune system recognizes the transplanted heart as foreign and attacks it. The immunosuppressant medications will prevent the immune system from attacking and rejecting the new heart. Immunosuppression may also affect the way your body fights off infection.
+Your dose of immunosuppression medications will change over time. The biggest dose is usually taken right after your transplant and decreased over time. Because one of the side effects of taking immunosuppression is infection, you will also likely be prescribed medication(s) to prevent infection. While you are in the hospital, you will be taught all about your medications.
+Learn more in the After the Surgery: Living with a Transplanted Heart (Heart Transplant Recipient and Caregiver Manual Book 3)
+
+Cardiac rehabilitation
+Rehabilitation after a cardiac incident helps people with heart disease improve their cardiac health and fitness. It also helps them reduce their chance of future incidents through lasting lifestyle and behaviour changes.
+UHN’s Cardiovascular Rehabilitation Program helps you:
+
+Take charge of your medical condition
+Develop strategies to improve your risk factors for cardiovascular disease
+Maintain an exercise program to improve your health and well being
+Incorporate healthy food choices and practices to manage your health and well being
+Develop strategies to manage your psychosocial risks for cardiovascular disease.
+
+Cardiac College was developed specifically to help guide patients in developing positive and healthy behaviour to live and thrive with cardiovascular disease. Patients will learn skills to:
+
+Build a foundation for a safe heart
+Develop skills to take care of your heart
+Prepare for life after rehab
+
+Learn more information about UHN’s cardiac rehab program.

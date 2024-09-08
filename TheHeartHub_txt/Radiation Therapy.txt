@@ -1,0 +1,35 @@
+Radiation Therapy
+Radiation therapy is a key component in cancer care to help reduce the risk of recurrence and death. It is used to treat several cancers, including breast, lung, esophagus, and Hodgkin’s lymphoma. 
+Most radiation therapy is administered by a local external beam of high-energy particles (such as protons, electrons, and photons) designed to destroy cancer cells. Sometimes radiation therapy is given by brachytherapy. Brachytherapy is a sealed source of radiation inserted in the body next to the target cells. Ultimately, radiation destroys the DNA in cancer cells and prevents them from growing and dividing normally, causing them to die.
+Radiation-Therapy Induced Cardiotoxicity
+
+Radiation can affect the arteries and veins that supply the heart muscle, causing the structures of the heart to become inflamed, thickened, or scarred (fibrosis). Radiotherapy-induced cardiotoxicity (RICT) is recognized as a contributor to abnormal heart function years after radiation therapy is completed. 
+Effects of radiation on the heart include:
+
+Pericarditis (inflammation of the sac around the heart)
+Pericardial effusion (fluid collection in the sac around the heart)
+Myocarditis (inflammation of the heart muscle)
+Cardiomyopathy (enlarged heart/decreased pumping function/stiffness of the heart walls)
+Damage of the valves of the heart
+Premature narrowing/injury of the heart blood vessels (coronary artery disease)
+Injury to electrical system of the heart leading to arrhythmias (abnormal heart rhythms)
+Autonomic dysfunction (nerve injury, changes in heart rate and blood pressure with exercise)
+
+RICT generally occurs many years after radiation therapy is completed. Those at greatest risk of RICT include:
+
+People who had heart disease or risk factors for heart/carotid artery disease (smoking, diabetes, high blood pressure, high cholesterol, obesity) before their cancer diagnosis 
+Those receiving concomitant chemotherapy (chemotherapy given to increase the sensitivity of tumour cells to radiation therapy)
+Those receiving anthracycline chemotherapy or trastuzumab
+Patients receiving left sided chest radiation
+Those receiving a radiation heart dose greater than 35 Gy
+Those who are/were a younger age when receiving radiation.
+
+Reducing the Risk of RICT
+Recent improvements in radiotherapy reduce cardiac radiation exposure:  
+
+Increased use of technology to plan and target radiation therapy allows more precise doses of radiation while limiting radiation exposure to the neck, chest, and heart. 
+Daily dosing of radiation therapy means smaller doses of radiation are given more frequently, decreasing the risk of RICT associated with higher daily doses. 
+Use of chemotherapy to decrease the amount of radiation required.
+
+Your overall health also helps reduce risk of heart disease. Healthy behaviours such as not smoking, maintaining a healthy weight, preventing/controlling diabetes, engaging in regular exercise, and maintaining healthy blood pressure and cholesterol levels all contribute to reducing risk. 
+Tell your health care team if you develop symptoms of chest pain, shortness of breath, increasing difficulty with physical activity, and swelling in your feet/legs. These may be signs of heart injury, which can occur many years after radiation therapy. If you develop these symptoms and have had radiation therapy to the chest/neck in the past, you may require tests to determine if you have heart disease.

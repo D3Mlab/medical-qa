@@ -1,0 +1,39 @@
+Immune Therapy
+The immune system works by recognizing foreign ‘outsider’ cells and boosting the body’s defense system (antibodies) to attack them, preventing damage to the body. 
+Immune responses attack any foreign invader, such as bacteria, viruses, or cancer cells. The immune system can also produce cytokines, which are substances that act as messengers; cytokines tell the body’s cells to attack foreign cells.
+Immune Checkpoint Inhibitors
+Cancer cells can be difficult to recognize in the early stages, as they start off as normal cells – the body may not initially recognize them as foreign. Immune checkpoint inhibitors (ICIs) are a type of immune therapy that strengthens the body’s immune system to recognize and fight cancer cells. 
+Common cancers treated with ICIs include:
+
+Certain types of lymphoma
+Skin cancer
+Lung
+Kidney
+Bladder
+Gynecologic
+Common ICI medications include:
+Atezolizumab
+Avelumab
+Durvalumab
+Ipilimumab
+Nivolumab 
+Pembrolizumab
+
+Myocarditis 
+
+A possible side effect of ICI therapy is organ inflammation, including myocarditis (inflammation of the heart muscle).
+The main symptoms of myocarditis include chest pain, fatigue, fast or abnormal heart rates, shortness of breath, swelling in the feet and ankles, joint and muscle pain, and fevers. Although myocarditis can occur at any time, it is more likely to occur early into ICI therapy, usually within the first 2-3 months of treatment. 
+Diagnostic tests for myocarditis include:
+
+ECG
+Chest Xray
+Cardiac MRI (can show signs of inflammation, and pumping function of heart)
+Echocardiogram (can show pumping function of heart, as well as fluid around the heart)
+Blood tests (looking for inflammation; CRP, and injury to heart muscle- troponin/BNP)
+Cardiac biopsy (small sample of heart muscle removed for checking for inflammation)
+
+Myocarditis may be treated by:
+
+High dose steroids by IV in hospital followed by a transition to oral steroids, such as prednisone, and tapering over time until symptoms are resolved and there is normal heart function
+Postponing ICI therapy
+Pain medications such as Tylenol and non-inflammatory medications (ibuprofen)

@@ -1,0 +1,94 @@
+Detecting heart failure can be difficult because symptoms may be confused with other conditions. But early diagnosis is key to helping patients stay active and out of the hospital. A number of different tests can be arranged – don’t hesitate to discuss with your health care provider if heart failure is suspected.
+
+
+
+Blood Tests
+
+Blood tests look at your blood counts as well as your kidney, liver, and thyroid function.
+Blood samples to measure a substance called brain natriuretic peptide (BNP) are especially effective at detecting heart failure. BNP is a naturally occurring hormone in your body that rises alongside the pressures in the heart as a result of heart failure. BNP levels may vary over time depending on the severity of heart failure.
+Certain medications used to treat heart failure can affect the electrolytes in your body (like potassium) and may also affect your renal function. Regular blood tests allow you to monitor these issues, especially after adjusting the doses of your medication.
+
+
+Electrocardiogram
+
+An electrocardiogram (ECG or EKG) records the heart’s electrical activity. This non-invasive test involves applying stickers to the skin on a patient’s chest, arms, and legs.
+From an ECG, the “rhythm” of the heart can be determined. Normal rhythm is called “sinus” (originating from the sinus node). Abnormal rhythms that can be identified by the ECG include atrial fibrillation and forms of heart block.
+An ECG may also provide clues that a chamber in the heart is enlarged and can sometimes show evidence of a previous heart attack.
+It is normal to have an ECG when seeing a cardiologist.
+
+
+Chest X-Ray
+A chest X-ray can give information about the size of the heart. It also looks at the lungs and can show if there is extra fluid built up in the lungs, which may cause shortness of breath.
+
+Echocardiogram (ECHO)
+
+An echocardiogram (ECHO) is an ultrasound of the heart that shows details of the heart’s structure and function. 
+An ECHO closely examines the four valves to ensure that they are opening and closing normally and measuring flow of blood through them. It measures the heart’s output (ejection fraction or EF).
+An ECHO is typically performed through the chest wall – this is called a transthoracic ECHO. Occasionally, when more detailed information is required, the ECHO probe may be passed down the esophagus– this is called a transesophageal ECHO. A transesophageal ECHO is a more invasive procedure that requires a specialized setting and medications for sedation. 
+A small amount of special contrast dye may be needed to better visualize the heart. The special contrast dye is injected into a patient’s vein through an intravenous, allowing the inside of the heart to be seen more clearly.
+
+
+RNA Radionuclide Angiogram
+
+An RNA scan is a non-invasive, nuclear medicine test involving the injection of a small amount of a radioactive tracer. After the radioactive tracer is injected, several pictures of the heart are taken using a special camera.
+An RNA scan gives a very precise assessment of the left ventricular ejection fraction.
+
+
+Exercise Stress Test or Stress Test
+
+Stickers are placed on the skin of the chest and limbs and attached to an ECG for continuous monitoring. 
+You typically walk a treadmill at increasing speed to increase your heart rate. There is no set length for the stress test, you simply go for as long as you can. Blood pressure is also checked every few minutes. 
+There is usually a “target heart rate” set, which is based on the subject’s age.
+
+
+Nuclear Perfusion Scan
+
+A nuclear perfusion scan is a special type of stress test that uses a small dose of an intravenous radioactive material to show blood flow to the heart. Pictures of the heart are taken at rest and then after stress.
+Exercise is the preferred stress although a drug can be given if patients are not able to exercise.
+Reduced uptake of the radioactive tracer in a certain part of the heart may suggest that there is a narrowed or blocked artery supplying that territory of heart muscle.
+A nuclear perfusion scan is more sensitive than a standard stress test at detecting coronary artery disease and determining the extent of disease.
+
+
+Coronary Angiogram
+
+This invasive test involves placing a thin flexible tube (called a catheter) in a wrist or groin artery and passing it up internally to the heart. Contrast dye is then injected into the arteries around the heart and X-ray pictures are taken.
+An angiogram allows a very detailed look at the arteries around the heart and characterization of any narrowing or blockages.
+In general, an angiogram is a very safe test. Some associated risks are bleeding or bruising, an allergic reaction to contrast dye, or damage to the kidneys from the dye. Serious complications like a stroke, heart attack, or death are extremely uncommon (less than 0.1%).
+A coronary angiogram is the best test to use when diagnosing coronary artery disease. Patients are awake during this day procedure and given medication to help relax.
+
+
+Cardiopulmonary Test (CPET)
+
+A cardiopulmonary test (CPT or sometimes CPET) is a special type of exercise stress test that involves exercising on a treadmill or bike while wearing a special mask. 
+The mask measures the amount of oxygen consumed, as well as the amount of carbon dioxide produced. 
+A CPT gives a portrait of how well the heart is functioning. It may be repeated over time to assess the progression of heart failure.
+
+
+Cardiac MRI
+
+Cardiac magnetic resonance imaging (MRI) involves lying inside a special tubular scanner to look at the heart structure and look for inflammation or scarring within the heart.
+An MRI is a magnet that uses radio waves and does not involve any exposure to radiation. 
+An MRI is a big magnet, so if cannot be performed if you have metal in your body (like a pacemaker, or metal from previous surgeries).
+
+
+Cardiac PET Scan
+
+A cardiac PET scan is a specialized nuclear test that takes pictures of the heart. 
+It can detect if the tissue of the heart is still living (or viable), and if coronary artery bypass surgery or coronary angioplasty would be beneficial.
+It may also be used for patients with certain heart conditions to look for inflammation of the heart tissue.
+
+
+Genetic Testing
+Some heart failure may be due to genetic or inherited conditions, usually if there is a family history of heart failure or cardiomyopathy (heart muscle disease) in one or more relatives. In some conditions, the heart is the only organ affected, whereas in other genetic conditions, the heart is just one of many organ systems affected.
+Referral to a genetics specialist or specialized laboratory testing may be arranged if a genetic or hereditary cause is suspected. Some factors that might result in a specialized genetic evaluation include:
+
+An unexplained family history of heart failure or cardiomyopathy
+A family history of sudden death or lethal arrhythmia at a young age
+Unexplained dysfunction of other organ systems
+A personal or family history of a known genetic condition
+
+The field of genetics in medicine and cardiology is rapidly progressing. It is anticipated that more and more genetic variants linked to heart disease will be discovered, providing key insight to why some individuals develop heart failure and whether these variants could impact the children and relatives of affected individuals. 
+Appropriate genetic counselling is required as part of any genetic testing or evaluation as genetic testing can often result in uncertain findings. In other words, it is not always clear whether the genetic changes in an individual are responsible for causing a heart condition. As well, the results of genetic testing may have implications for children and other family members in the future. A genetic counsellor or genetics specialist becomes an important support within the care team.
+
+
+Go To Paediatric Heart Failure
