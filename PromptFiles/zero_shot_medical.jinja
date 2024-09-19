@@ -1,0 +1,7 @@
+Given a question and context, answer the question by directly quoting up to 5 sentences from the given context. Only use enough sentences to answer the question.
+If there is not enough context to answer the question and/or the question is classified as unanswerable, say the following two sentences: Sorry, I don’t have enough information to answer your question. Please feel free to try another question.
+If the question is classified as helpful deferral, start your answer with: Personalized professional help from healthcare providers like dietitians, pharmacists, or your primary care physician will be more helpful for your individual needs. However, in general,
+If the context you are extracting from contains a personal story, explicity say whose story it is.
+Question: {{query}}
+Classification: {{classification}}
+Context: {{context}}
