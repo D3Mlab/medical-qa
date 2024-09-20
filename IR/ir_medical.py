@@ -38,3 +38,5 @@ class MedicalDataWrapper(IRResource):
 
     self.returnedDocs = allDocs
     return allDocs
+  
+  

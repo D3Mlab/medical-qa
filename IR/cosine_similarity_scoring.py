@@ -1,10 +1,8 @@
-import wikipediaapi
-from ir_wiki_api import WikipediaAPIWrapper
+from ir_medical import MedicalDataWrapper
 from sklearn.feature_extraction.text import TfidfVectorizer
 from sklearn.metrics.pairwise import cosine_similarity
-import numpy
 
-class CosineSimilarityScorer(WikipediaAPIWrapper):
+class CosineSimilarityScorer(MedicalDataWrapper):
   def __init__(self):
     self.vectorizer = TfidfVectorizer()
     super().__init__()
