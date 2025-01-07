@@ -31,7 +31,7 @@ The system’s main class can be defined as follows:
 ```
 class MedQASystem(QASystem):
   def __init__(self, apiKey):
-    self.irSys = BM25Local(folder_path='/path/OurHeartHub_txt', k=3)
+    self.irSys = BM25Local(folder_path='/content/medical-qa/OurHeartHub_txt', k=3)
     self.vector_database = VectorDatabase("ST") # Options: BERT | RoBERTa | XLNet | ST
     self.llm = GPT(apiKey)
     self.promptStyle = ZeroShot() # Options: ZeroShot, FewShot
