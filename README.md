@@ -4,9 +4,9 @@ This repository contains the code and dataset for the **Medical Question Answeri
 The Medical QA system uses:
 - **Query dataset**: Includes classification labels, raw documents, and gold standard responses (ground truths), as well as the names of the documents in which the ground truths are found.
 - **RAG framework**: Combines information and snippet retrieval, as well as language models to answer medical queries.
-- **Evaluation metrics**: Used to measure system performance using Rouge 1 Recall, Bert Precision, and IoU Score.
+- **Evaluation metrics**: Used to measure system performance using Rouge 1 Recall, Bert Precision, and Intersection Over Union (IoU) Score.
 
-The dataset was curated from The Heart Hub website, ensuring relevant and accurate information.
+The dataset was curated from [The Heart Hub](https://ourhearthub.ca/) website, ensuring relevant and accurate information.
 ## Data Format
 The dataset is provided in the following formats:
 1. Dataset.csv: Contains the following columns:
@@ -20,7 +20,8 @@ The dataset is provided in the following formats:
 ## Setup and Usage
 ### Required Libraries
 Install the following libraries to use the system:
-```pip install whoosh
+```
+pip install whoosh
 pip install --upgrade openai
 pip install rank_bm25
 pip install faiss-gpu
@@ -31,8 +32,11 @@ The system’s main class can be defined as follows:
 ```
 class MedQASystem(QASystem):
   def __init__(self, apiKey):
-    self.irSys = BM25Local(folder_path='/content/medical-qa/OurHeartHub_txt', k=3)
-    self.vector_database = VectorDatabase("ST") # Options: BERT | RoBERTa | XLNet | ST
+    # Options for IR and snippet retrieval: MedCPT | BioBERT | BioMedBERT | paraphrase-MiniLM-L6-v2 | gpt3 | TAS-B
+    # Snippet retrieval also has a sparse retrieval option
+    # The IR and snippet retrieval stages use the MedCPT cross encoder and the article encoder respectively
+    self.irSys = BM25Local(folder_path='/content/medical-qa/OurHeartHub_txt', k=3) 
+    self.vector_database = VectorDatabase("ST") 
     self.llm = GPT(apiKey)
     self.promptStyle = ZeroShot() # Options: ZeroShot, FewShot
     self.llmReasoner = SimpleReasoner(self.llm, self.promptStyle)
