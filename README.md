@@ -34,7 +34,7 @@ class MedQASystem(QASystem):
   def __init__(self, apiKey):
     # Options for IR and snippet retrieval: MedCPT | BioBERT | BioMedBERT | paraphrase-MiniLM-L6-v2 | gpt3 | TAS-B
     # Snippet retrieval also has a sparse retrieval option
-    # The IR and snippet retrieval stages use the MedCPT cross encoder and the article encoder respectively
+    # The IR and snippet retrieval stages use the MedCPT cross encoder and the query encoder respectively
     self.irSys = BM25Local(folder_path='/content/medical-qa/OurHeartHub_txt', k=3) 
     self.vector_database = VectorDatabase("ST") 
     self.llm = GPT(apiKey)
